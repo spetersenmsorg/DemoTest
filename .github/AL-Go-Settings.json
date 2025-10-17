@@ -2,5 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.0/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "artifact": "//27.0.38460.41085/us/first"
+  "artifact": "//27.0.38460.41085/us/first",
+  "runs-on": "self-hosted",
+  "githubRunner": "self-hosted"
 }
