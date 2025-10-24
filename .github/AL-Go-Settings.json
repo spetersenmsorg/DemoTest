@@ -6,7 +6,7 @@
   "runs-on": "self-hosted",
   "githubRunner": "self-hosted",
   "templateSha": "359d32d051a800d7e28c3a0f97a724b16aed403b",
-  "useCompilerFolder": false,
-  "doNotPublishApps": false,
+  "useCompilerFolder": true,
+  "doNotPublishApps": true,
   "cacheKeepDays": 30
 }
