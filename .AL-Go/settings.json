@@ -6,5 +6,6 @@
   "bcptTestFolders": [],
   "DeployToSandbox": {
     "environmentName": "a39062_p38856_US_27-0"
-  }
+  },
+  "repoVersion": "2.0"
 }
